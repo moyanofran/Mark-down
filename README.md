@@ -1,1 +1,2 @@
 # Mark-down
+Markdown es un lenguaje de marcado ligero que permite escribir texto con formato de manera sencilla. Se utiliza principalmente para crear contenido en la web, como documentos, blogs y README de proyectos. Utiliza caracteres especiales como # para encabezados, * para listas, y ** para negritas, entre otros, para aplicar formato sin necesidad de utilizar un editor WYSIWYG. Su principal ventaja es la simplicidad y facilidad de lectura, tanto en su forma original como después de ser convertido a HTML.
